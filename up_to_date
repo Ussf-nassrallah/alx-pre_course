@@ -1,0 +1,10 @@
+git init
+git status
+git add .
+git commit -m "first commit"
+git push
+git branch main
+git branch -a
+git branch -r
+git checkout main
+git push origin main
